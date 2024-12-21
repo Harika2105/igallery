@@ -198,12 +198,12 @@ window.onclick = function(event) {
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-20 165352.png>)
 ![alt text](<Screenshot 2024-12-20 165403.png>)
-![alt text](<Screenshot 2024-12-20 165411.png>)
-![alt text](<Screenshot 2024-12-20 165421.png>)
-![alt text](<Screenshot 2024-12-20 165431.png>)
-![alt text](<Screenshot 2024-12-20 165441.png>)
-![alt text](<Screenshot 2024-12-20 165449.png>)
-![alt text](<Screenshot 2024-12-20 165459.png>)
-![alt text](<Screenshot 2024-12-20 165509.png>)
+![alt text](<Screenshot 2024-12-21 113846-1.png>)
+![alt text](<Screenshot 2024-12-21 114000.png>) 
+![alt text](<Screenshot 2024-12-21 114100.png>)
+![alt text](<Screenshot 2024-12-21 114129.png>)
+![alt text](<Screenshot 2024-12-21 114159.png>)
+![alt text](<Screenshot 2024-12-21 114226.png>)
+![alt text](<Screenshot 2024-12-21 114254.png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
