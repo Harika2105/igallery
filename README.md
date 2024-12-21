@@ -128,25 +128,25 @@ body {
 
   <div class="gallery">
     <div class="image-container">
-      <img src="tajmahal.png.png"  alt="MACHU PICCHU" class="gallery-item">
+      <img src="machu picchu.png.png"  alt="MACHU PICCHU" class="gallery-item">
     </div>
     <div class="image-container">
-      <img src="wall of china.png.png"  alt="TAJMAHAL" class="gallery-item">
+      <img src="tajmahal.png.png"  alt="TAJMAHAL" class="gallery-item">
     </div>
     <div class="image-container">
-      <img src="petra.png.png"  alt="THE COLOSSEUM" class="gallery-item">
+      <img src="colosseum.png.png"  alt="THE COLOSSEUM" class="gallery-item">
     </div>
     <div class="image-container">
-      <img src="machu picchu.png.png" alt="GREAT WALL OF CHINA" class="gallery-item">
+      <img src="wall of china.png.png" alt="GREAT WALL OF CHINA" class="gallery-item">
     </div>
     <div class="image-container">
-      <img src="colosseum.png.png"  alt="PETRA" class="gallery-item">
+      <img src="petra.png.png"  alt="PETRA" class="gallery-item">
     </div>
     <div class="image-container">
-      <img src="christ the redeemer.png.png"  alt="CHICHEN ITZA" class="gallery-item">
+      <img src="chichen itza.png.png"  alt="CHICHEN ITZA" class="gallery-item">
     </div>
     <div class="image-container">
-      <img src="chichen itza.png.png"  alt="CHRIST THE REDEEMER" class="gallery-item">
+      <img src="christ the redeemer.png.png"  alt="CHRIST THE REDEEMER" class="gallery-item">
     </div>    
   </div>
 
@@ -193,7 +193,7 @@ window.onclick = function(event) {
     <h2 align="center">Designed and developed by Harika S</h2>
   </footer>
 </body>
-</html>
+</html
 ```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-20 165352.png>)
